@@ -1,5 +1,5 @@
 machine:
-  enviroment:
+  environment:
     FIREBASE_TOKEN: "1/mDGNfDeVNVlmG9tU1AfK3LgbgZ9AEwzqiDRyBAHViaU"
 
 test:
