@@ -1,3 +1,7 @@
+machine:
+  enviroment:
+    FIREBASE_TOKEN: "1/mDGNfDeVNVlmG9tU1AfK3LgbgZ9AEwzqiDRyBAHViaU"
+
 test:
   override:
     - echo "No test, playa!"
@@ -7,5 +11,7 @@ deployment:
     branch: master
     commands:
       - npm install -g polymer-cli
+      - npm install -g firebase-tools
+      - bower install
       - polymer build
-      - ls
+      - firebase deploy --token "$FIREBASE_TOKEN"
