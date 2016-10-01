@@ -14,4 +14,4 @@ deployment:
       - npm install -g firebase-tools
       - bower install
       - polymer build
-      - firebase deploy --token=$FIREBASE_TOKEN --non-interactive
+      - firebase --project df16pl deploy --token=$FIREBASE_TOKEN --non-interactive
