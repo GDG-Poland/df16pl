@@ -1,3 +1,7 @@
+test:
+  override:
+    - echo "No test, playa!"
+
 deployment:
   production:
     branch: master
