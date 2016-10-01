@@ -1,0 +1,7 @@
+deployment:
+  production:
+    branch: master
+    commands:
+      - npm install -g polymer-cli
+      - polymer build
+      - ls
