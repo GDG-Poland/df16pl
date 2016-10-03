@@ -7,9 +7,9 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "DfMnJAzOFng",
-          "text": "See how it was in 2015"
+          "title": "GDG DevFest Poland 2016",
+          "youtubeId": "YOUTUBEID",
+          "text": "Zobacz jak to wyglądało w 2015!"
         },
         "hideLogo": true,
         "minHeight": "360px"
@@ -73,7 +73,7 @@
       "permalink": "/team/"
     }
   ],
-  "url": "https://hoverboard.firebaseapp.com/",
+  "url": "https://df16pl.firebaseapp.com/",
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
@@ -82,12 +82,8 @@
   "disqusShortName": "hoverboard-gdg-x",
   "languages": [
     {
-      "name": "English",
-      "key": "en"
-    },
-    {
-      "name": "Українська",
-      "key": "uk"
+      "name": "Polski",
+      "key": "pl"
     }
   ],
   "footerBlocks": [
@@ -143,13 +139,13 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "devfest@gdgpoland.org",
+        "url": "mailto:devfest@gdgpoland.org"
       }
     ]
   },
   "tickets": {
-    "url": "http://2event.com/events/630032",
+    "url": "eventbrite",
     "elements": [
       {
         "name": "student-ticket",
@@ -183,15 +179,11 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 600,
+      "counter": 500,
       "caption": "attendees"
     },
     {
-      "counter": 2,
-      "caption": "days"
-    },
-    {
-      "counter": 30,
+      "counter": 40,
       "caption": "sessions"
     },
     {
@@ -199,11 +191,11 @@
       "caption": "tracks"
     }
   ],
-  "hashtag": "dfua",
+  "hashtag": "df16pl",
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
+      "nickname": "GDGPoland",
       "url": "https://twitter.com/gdglviv"
     },
     {
