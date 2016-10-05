@@ -60,14 +60,7 @@
       "route": "blog",
       "permalink": "/blog/"
     },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/"
-    },
-    {
-      "route": "speakers",
-      "permalink": "/speakers/"
-    },
+
     {
       "route": "team",
       "permalink": "/team/"
@@ -79,6 +72,7 @@
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
   "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "c4p": "https://docs.google.com/forms/d/e/1FAIpQLSfEGOW-ozP2xebZIYLOZ1vanPwalJLMGpx4YJgAuqs2-BvxGw/viewform",
   "disqusShortName": "hoverboard-gdg-x",
   "languages": [
     {

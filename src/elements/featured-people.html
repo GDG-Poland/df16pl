@@ -91,7 +91,7 @@
 
     <div class="container">
       <h4 class="heading">[[localize('featured-people-title')]]</h4>
-      <div class="people-wrapper">
+      <!-- <div class="people-wrapper">
         <template is="dom-repeat" items="[[featuredPeople]]" as="person">
           <a href$="/speakers/[[person.id]]" class="person">
             <iron-image
@@ -108,10 +108,13 @@
             <span class="company">[[person.country]]</span>
           </a>
         </template>
-      </div>
+      </div> -->
       <div>
-        <a href="/speakers" class="block-link">
+        <!-- <a href="/speakers" class="block-link">
           <paper-button>[[localize('featured-people-view-all')]]</paper-button>
+        </a> -->
+        <a class="block-link" href$="[[app.data.c4p]]" target="_blank" rel="noopener noreferrer" on-tap="_trackClick">
+          <paper-button class="primary" raised>[[localize('c4p')]]</paper-button>
         </a>
       </div>
     </div>
