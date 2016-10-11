@@ -59,14 +59,6 @@
     {
       "route": "blog",
       "permalink": "/blog/"
-    },
-    {
-      "route": "speakers",
-      "permalink": "/speakers"
-    },
-    {
-      "route": "team",
-      "permalink": "/team/"
     }
   ],
   "url": "https://df16pl.firebaseapp.com/",
@@ -98,21 +90,6 @@
         {
           "text": "google-developers",
           "url": "https://developers.google.com/",
-          "newTab": true
-        }
-      ]
-    },
-    {
-      "title": "for-partners",
-      "links": [
-        {
-          "text": "partnership-proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "media-kit",
-          "url": "http://bit.ly/df16-media",
           "newTab": true
         }
       ]
@@ -161,22 +138,17 @@
     {
       "name": "twitter",
       "nickname": "GDGPoland",
-      "url": "https://twitter.com/gdglviv"
+      "url": "https://twitter.com/devfestpl"
     },
     {
       "name": "gplus",
       "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "url": "https://plus.google.com/105194415052752125887"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "GDG.Poland",
+      "url": "https://www.facebook.com/GDG.Poland/"
     }
   ],
   "tweetsSource": "/data/tweets.json",
