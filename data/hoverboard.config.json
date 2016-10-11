@@ -127,7 +127,7 @@
     ]
   },
   "tickets": {
-    "url": "eventbrite",
+    "url": "blog/posts/devfest-2016-announced/",
     "elements": [
       {
         "name": "early-ticket",
