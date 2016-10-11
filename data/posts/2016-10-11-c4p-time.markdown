@@ -1,0 +1,23 @@
+Prowadzisz ciekawe projekty? Chcesz podzielić się swoją wiedzą i doświadczeniem z innymi? Zgłoś swoją propozycję prezentacji na Devfest Poland 2016 i zostań naszym prelegentem!
+
+Jako Google Developers Group Poland jesteśmy otwarci na głosy naszej społeczności, dlatego zachęcamy do przesyłania swoich zgłoszeń. Zostań prelegentem na DevFest 2016 Poland i podziel się z uczestnikami wydarzenia swoją wiedzą i doświadczeniem.
+
+
+
+<div class="text-center">
+<a href="https://goo.gl/3fO5zc" target="_blank" class="style-scope header-content" style="color: white; ">
+  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Zgłoś swoją propozycję</paper-button>
+</a>
+</div>
+
+Spośród nadesłanych zgłoszeń wybierzemy 40 najciekawszych tematów. Skorzystaj z okazji by zainspirować innych swoją pasją i wystąpić na scenie razem z naszymi ekspertami!
+
+Aby zgłosić swoją propozycję, wypełnij formularz zgłoszeniowy do 26 października 2016. Tego dnia zamykamy możliwość nadsyłania zgłoszeń, aby przeanalizować zebrane tematy i niezwłocznie skontaktować się z wybranymi osobami.
+
+##Dlaczego warto zostać prelegentem na DevFest Poland 2016?
+
+Twoje wystąpienie to świetna okazja do budowania swojej marki osobistej oraz wizerunku eksperta w środowisku
+możliwość budowania pozytywnego wizerunku Twoje firmy
+unikalne doświadczenie, oraz okazja do inspirowania innych osób oraz dzielenia się swoją wiedzą
+
+Zgłaszany temat powinien dotyczyć jednego z trzech tracków: Developer, Design lub Business.

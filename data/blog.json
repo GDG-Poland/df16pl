@@ -1,16 +1,7 @@
 [
   {
-    "id": "devfest-ua-summary",
-    "title": "GDG DevFest Ukraine 2015 Summary",
-    "posted": "2015-10-24",
-    "primaryColor": "#5a7785",
-    "secondaryColor": "#455a64",
-    "image": "/images/posts/summary.jpg",
-    "brief": "GDG DevFest Ukraine 2015 is now over. It was a great success. We are happy to share with you some facts, emotions and, of course, photos from the biggest Google Developers Conference in Ukraine!"
-  },
-  {
     "id": "devfest-2016-announced",
-    "title": "GDG DevFest 2016 Announced",
+    "title": "GDG DevFest Poland 2016 już niebawem!",
     "posted": "2016-05-04",
     "primaryColor": "#00BCD4",
     "secondaryColor": "#00BCD4",
@@ -19,8 +10,8 @@
   },
   {
     "id": "c4p-time",
-    "title": "Call for Papers Time",
-    "posted": "2016-05-06",
+    "title": "Call for Papers",
+    "posted": "2016-10-11",
     "primaryColor": "#3F51B5",
     "secondaryColor": "#3F51B5",
     "image": "/images/posts/c4p-is-open.jpg",

@@ -60,7 +60,10 @@
       "route": "blog",
       "permalink": "/blog/"
     },
-
+    {
+      "route": "speakers",
+      "permalink": "/speakers"
+    },
     {
       "route": "team",
       "permalink": "/team/"
@@ -95,21 +98,6 @@
         {
           "text": "google-developers",
           "url": "https://developers.google.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-13",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-14",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "df-15",
-          "url": "http://devfest.gdg.org.ua/2015/",
           "newTab": true
         }
       ]
