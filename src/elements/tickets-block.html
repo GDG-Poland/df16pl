@@ -45,7 +45,8 @@
 
       .buy-button {
         margin-top: 30px;
-        /*color: var(--primary-text-color);*/
+        background: #fff;
+        color: var(--primary-text-color);
       }
 
       paper-dialog {
@@ -83,9 +84,9 @@
         </template>
       </div>
       <div class="details">[[localize('tickets-details')]]</div>
-      <!-- <a href$="[[app.data.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick"> -->
-        <paper-button class="buy-button" disabled>[[localize('buy-ticket')]]</paper-button>
-      <!-- </a> -->
+      <a href="[[app.data.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+        <paper-button class="buy-button" raised>[[localize('buy-ticket')]]</paper-button>
+      </a>
     </div>
 
   </template>

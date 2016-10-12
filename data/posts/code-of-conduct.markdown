@@ -10,4 +10,4 @@ If someone is bothering you, please tell GDG Organizers immediately and they wil
 
 #### Contacts:
 
-- Oleh Zasadnyy, +38 093 48 66 460, [oleh.zasadnyy@gdg.org.ua](mailto:oleh.zasadnyy@gdg.org.ua)
+- Jakub Kołakowski, +48 509 385 681, [akub@gdgpoland.org](akub@gdgpoland.org)

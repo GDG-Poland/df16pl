@@ -11,7 +11,7 @@
   "motto": "Dołącz do nas!",
   "play-icon": "Zobacz jak było rok temu!",
   "c4p": "Zostań speakerem!",
-  "buy-ticket": "Zapowiedź",
+  "buy-ticket": "Kup Bilet",
   "back-to-top": "Na górę",
   "subscribe": "Subskrybuj",
   "your-email": "Twój mail",
@@ -79,5 +79,6 @@
   "continue-reading": "Czytaj dalej",
   "view-presentation": "Zobacz prezentację",
   "view-video": "Zobacz film",
-  "share-with": "Podziel się"
+  "share-with": "Podziel się",
+  "organizers": "Organizatorzy"
 }

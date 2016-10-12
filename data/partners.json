@@ -8,5 +8,31 @@
         "logoUrl": "../images/logos/google.svg"
       }
     ]
+  },
+  {
+    "title": "organizers",
+    "logos": [
+      {
+        "name": "Google",
+        "url": "https://www.google.com.ua/intl/en/about/",
+        "logoUrl": "../images/logos/gdg-krakow.png"
+      },{
+        "name": "Google",
+        "url": "https://www.google.com.ua/intl/en/about/",
+        "logoUrl": "../images/logos/gdg-lublin.png"
+      },{
+        "name": "Google",
+        "url": "https://www.google.com.ua/intl/en/about/",
+        "logoUrl": "../images/logos/gdg-rzeszow.png"
+      },{
+        "name": "Google",
+        "url": "https://www.google.com.ua/intl/en/about/",
+        "logoUrl": "../images/logos/gdg-warszawa.png"
+      },{
+        "name": "Google",
+        "url": "https://www.google.com.ua/intl/en/about/",
+        "logoUrl": "../images/logos/gdg-zielona-gora.png"
+      }
+    ]
   }
 ]
