@@ -3,7 +3,7 @@
     "home": {
       "headerSettings": {
         "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/home.png",
+        "backgroundImage": "/images/backgrounds/zwierzaczki4.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
@@ -12,42 +12,48 @@
           "text": "Zobacz jak to wyglądało w 2015!"
         },
         "hideLogo": true,
-        "minHeight": "360px"
+        "minHeight": "360px",
+        "mainContentTopPadding": "850px"
       }
     },
     "blog": {
       "headerSettings": {
         "backgroundColor": "#03a9f4",
         "fontColor": "#fff",
-        "tabBarColor": "#fff"
+        "tabBarColor": "#fff",
+        "mainContentTopPadding": "424px"
       }
     },
     "speakers": {
       "headerSettings": {
         "backgroundColor": "#3f51b5",
         "fontColor": "#fff",
-        "tabBarColor": "#fff"
+        "tabBarColor": "#fff",
+        "mainContentTopPadding": "424px"
       }
     },
     "schedule": {
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
-        "tabBarColor": "#fff"
+        "tabBarColor": "#fff",
+        "mainContentTopPadding": "424px"
       }
     },
     "team": {
       "headerSettings": {
         "backgroundColor": "#009688",
         "fontColor": "#fff",
-        "tabBarColor": "#fff"
+        "tabBarColor": "#fff",
+        "mainContentTopPadding": "424px"
       }
     },
     "cod": {
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
-        "tabBarColor": "#fff"
+        "tabBarColor": "#fff",
+        "mainContentTopPadding": "424px"
       }
     }
   },

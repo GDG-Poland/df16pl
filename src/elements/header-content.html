@@ -35,7 +35,7 @@
 
       app-toolbar {
         min-height: var(--min-header-height, 120px);
-        max-height: 360px;
+        max-height: 850px;
       }
 
       .container {
@@ -78,6 +78,7 @@
       .dates {
         font-size: 18px;
         text-transform: uppercase;
+        color: #000;
       }
 
       .motto {
@@ -129,10 +130,10 @@
         <animatable-content name="home">
           <div class="container">
             <div class="home-wrapper">
-              <iron-image class="logo" src="/images/logo-light.svg" sizing="contain"
-                          alt="GDG DevFest Ukraine 2016"></iron-image>
+              <iron-image class="logo" src="/images/logo.svg" sizing="contain"
+                          alt="GDG DevFest Poland 2016"></iron-image>
               <h3 class="dates">{{localize('dates')}}</h3>
-              
+
               <div class="action-buttons">
                 <paper-button class="primary" on-tap="_scrollToTickets" raised>{{localize('buy-ticket')}}</paper-button>
               </div>
