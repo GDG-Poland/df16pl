@@ -10,6 +10,71 @@
     ]
   },
   {
+    "title": "media-partners",
+    "logos":[
+      {
+        "name": "Women in Technology",
+        "url": "http://womenintechnology.pl/",
+        "logoUrl": "../images/media/women.png"
+      },
+      {
+        "name": "Podaj Dalej",
+        "url": "http://www.podajdalej.info.pl/",
+        "logoUrl": "../images/media/podajdalej.jpg"
+      },
+      {
+        "name": "Mobirank",
+        "url": "https://mobirank.pl/",
+        "logoUrl": "../images/media/mobirank.png"
+      },
+      {
+        "name": "interaktywnie.com",
+        "url": "http://interaktywnie.com/",
+        "logoUrl": "../images/media/interaktywnie.png"
+      },
+      {
+        "name": "OS News",
+        "url": "http://osnews.pl/",
+        "logoUrl": "../images/media/osnews.gif"
+      },
+      {
+        "name": "Radio Kampus",
+        "url": "http://radiokampus.fm/",
+        "logoUrl": "../images/media/radio-kampus.png"
+      },
+      {
+        "name": "Radio Nowinki",
+        "url": "http://www.nowinki.pk.edu.pl/",
+        "logoUrl": "../images/media/logo_nowinki_1.jpg"
+      },
+      {
+        "name": "RDC: Polskie Radio",
+        "url": "http://www.rdc.pl/",
+        "logoUrl": "../images/media/rdc.png"
+      },
+      {
+        "name": "Reseller News",
+        "url": "https://resellernews.pl/",
+        "logoUrl": "../images/media/reseller-news.png"
+      },
+      {
+        "name": "Virtual-IT",
+        "url": "http://www.virtual-it.pl/",
+        "logoUrl": "../images/media/virtual-it.png"
+      },
+      {
+        "name": "Web-News.pl",
+        "url": "http://www.web-news.pl/",
+        "logoUrl": "../images/media/web-news.jpg"
+      },
+      {
+        "name": "webMASTAH",
+        "url": "https://webmastah.pl/",
+        "logoUrl": "../images/media/webmastah.png"
+      }
+    ]
+  },
+  {
     "title": "organizers",
     "logos": [
       {
