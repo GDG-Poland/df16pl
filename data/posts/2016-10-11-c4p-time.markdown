@@ -1,4 +1,4 @@
-**Prowadzisz ciekawe projekty? Chcesz podzielić się swoją wiedzą i doświadczeniem z innymi? Zgłoś swoją propozycję prezentacji na Devfest Poland 2016 i zostań naszym prelegentem!**
+**Bierzesz udział w ciekawych projektach? Chcesz podzielić się swoją wiedzą i doświadczeniem z innymi? Zgłoś swoją propozycję prezentacji na Devfest Poland 2016 i zostań naszym prelegentem!**
 
 Jako Google Developers Group Poland jesteśmy otwarci na głosy naszej społeczności, dlatego zachęcamy do przesyłania swoich zgłoszeń. Zostań prelegentem na DevFest 2016 Poland i podziel się z uczestnikami wydarzenia swoją wiedzą i doświadczeniem.
 
@@ -12,12 +12,10 @@ Jako Google Developers Group Poland jesteśmy otwarci na głosy naszej społeczn
 
 Spośród nadesłanych zgłoszeń wybierzemy 40 najciekawszych tematów. Skorzystaj z okazji by zainspirować innych swoją pasją i wystąpić na scenie razem z naszymi ekspertami!
 
-Aby zgłosić swoją propozycję, wypełnij formularz zgłoszeniowy do 26 października 2016. Tego dnia zamykamy możliwość nadsyłania zgłoszeń, aby przeanalizować zebrane tematy i niezwłocznie skontaktować się z wybranymi osobami.
+Aby się zgłosić, wypełnij powyższy formularz do 26 października 2016 roku. Po tym dniu przeanalizujemy zebrane tematy i niezwłocznie skontaktujemy się z wybranymi osobami.
 
 **Dlaczego warto zostać prelegentem na DevFest Poland 2016?**
 
-Twoje wystąpienie to świetna okazja do budowania swojej marki osobistej oraz wizerunku eksperta w środowisku
-możliwość budowania pozytywnego wizerunku Twoje firmy
-unikalne doświadczenie, oraz okazja do inspirowania innych osób oraz dzielenia się swoją wiedzą
+Wystąpienie na konferencji to świetna okazja, by budować Twój wizerunek eksperta w środowisku oraz promować swoją firmę. To niezwykłe doświadczenie pozwoli Ci zainspirować innych ludzi i podzielić się z nimi swoją wiedzą.
 
-Zgłaszany temat powinien dotyczyć jednego z trzech tracków: Developer, Design lub Business.
+Zgłaszana prezentacja powinna dotyczyć jednego z trzech bloków tematycznych: Developer, Design lub Business.

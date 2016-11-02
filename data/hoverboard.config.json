@@ -115,7 +115,7 @@
       {
         "name": "early-ticket",
         "price": 50,
-        "currency": "PLN",
+        "currency": " zł",
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",

@@ -1,30 +1,30 @@
 **Ponad 500 uczestników, 40 ekspertów i 3 bloki tematyczne - już 26 listopada w warszawskim kinie Praha. Społeczność Google Developers Group Poland z przyjemnością ogłasza, że DevFest Poland 2016 nadchodzi wielkimi krokami!**
 
-DevFest to międzynarodowy cykl konferencji organizowanych przez społeczność Google Developers Group na całym świecie. Wydarzenia poświęcone są tematyce technologii Google oraz rozwiązań pokrewnych. 26 listopada 2016 roku odbędzie się już 6. edycja DevFest Poland 2016 - tym razem zapraszamy do warszawskiego kina Praha, gdzie czekać będzie na Was mnóstwo atrakcji, inspiracji i wiedzy.
+Ponad 500 uczestników, 40 ekspertów i 3 bloki tematyczne – już 26 listopada w warszawskim Kinie Praha.
 
-**Jak było rok temu?**
+**Co działo się rok temu?**
 
 - 29 prelegentów
-- 2 bloki tematyczne
-- ponad 300 uczestników
+- Dwa bloki tematyczne
+- Ponad 300 uczestników
 
-**Zapowiedź DevFest Poland 2016**
+**Czego możesz się spodziewać na DevFest Poland 2016?**
 
-- klimatyczne miejsce, w którym już 26 listopada 2016 odbędzie się konferencja - warszawskie Kino Praha
-- całodniowy event - 8:00 - 18:30 + afterparty!
+- Konferencja odbędzię się 26 listopada 2016 roku w klimatycznych wnętrzach warszawskiego Kina Praha
+- Po wykładach odbywających się w godzinach 8:00–18:30 zapraszamy na afterparty
 - 40 prelegentów
-- ponad 500 uczestników
-- 3 bloki tematyczne: Developer, design i Business
-- tematy takie, jak: Android, Chrome, Cloud Platform, Public Policy, Edukacja, APIs i wiele innych
+- Ponad 500 uczestników
+- Trzy bloki tematyczne: Developer, Design i Business
+- Wśród poruszanych zagadnień znajdą się: Android, Chrome, Cloud Platform, polityka publiczna, edukacja, interfejsy API
 
 <br>
 <div class="text-center">
-<a href="https://goo.gl/forms/NjANhIikvXTM0Uu33" target="_blank" class="style-scope header-content" style="color: white; ">
-  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Chcę bilety!</paper-button>
+<a href="https://devfestpl2016.eventbrite.com/" target="_blank" class="style-scope header-content" style="color: white; ">
+  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">CHCĘ KUPIĆ BILET</paper-button>
 </a>
 </div>
 <br>
 
-Jeśli jesteś programistą lub specjalistą w branży IT, nie możesz przegapić tego wydarzenia! DevFest Poland 2016 to największa konferencja programistyczna dedykowana rozwiązaniom Google, oraz doskonała okazja do zdobycia nowej wiedzy oraz zawarcia wartościowych znajomości.
+Jeśli jesteś programistą lub specjalistą w branży IT, nie możesz przegapić tego wydarzenia. DevFest Poland 2016 to największa konferencja programistyczna poświęcona rozwiązaniom Google, a także doskonała okazja, by poszerzyć swoją wiedzę i zawrzeć wartościowe znajomości.
 
 # Do zobaczenia!
