@@ -10,8 +10,23 @@
     ]
   },
   {
+    "title": "diamond-partners",
+    "logos": [
+      {
+        "name": "Cinkciarz.pl",
+        "url": "cinkciarz.pl",
+        "logoUrl": "../images/sponsors/cinkciarz-pl-logo-1200x630.jpg"
+      }
+    ]
+  },
+  {
     "title": "media-partners",
     "logos":[
+      {
+        "name": "Antyweb",
+        "url": "http://antyweb.pl",
+        "logoUrl": "../images/media/antyweb_logo2.jpg"
+      },
       {
         "name": "Women in Technology",
         "url": "http://womenintechnology.pl/",
@@ -31,6 +46,16 @@
         "name": "interaktywnie.com",
         "url": "http://interaktywnie.com/",
         "logoUrl": "../images/media/interaktywnie.png"
+      },
+      {
+        "name": "Crossweb",
+        "url": "http://crossweb.pl",
+        "logoUrl": "../images/media/crossweb-logo.png"
+      },
+      {
+        "name": "Rekruter",
+        "url": "http://www.magazynrekruter.pl",
+        "logoUrl": "../images/media/rekruter.jpg"
       },
       {
         "name": "OS News",
