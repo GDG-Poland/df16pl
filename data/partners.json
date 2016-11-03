@@ -58,6 +58,16 @@
         "logoUrl": "../images/media/rekruter.jpg"
       },
       {
+        "name": "Explory",
+        "url": "http://www.explory.pl",
+        "logoUrl": "../images/media/logo_Explory.jpg"
+      },
+      {
+        "name": "Strefa Kodera",
+        "url": "http://www.strefakodera.pl",
+        "logoUrl": "../images/media/strefa-kodera.png"
+      },
+      {
         "name": "OS News",
         "url": "http://osnews.pl/",
         "logoUrl": "../images/media/osnews.gif"
