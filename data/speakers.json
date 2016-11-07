@@ -71,5 +71,325 @@
         "link": "https://github.com/jarrodek"
       }
     ]
+  },
+  "3": {
+    "id": 3,
+    "featured": false,
+    "name": "Aleksander Piotrowski",
+    "title": "Android developer",
+    "company": "Applause",
+    "country": "Warszawa",
+    "photoUrl": "",
+    "shortBio": "Urodzony w Warszawie i zamieszkaly na Mokotowie przez wiekszosc swojego zycia. Od malego zainteresowany komputerami, glownie grami - River Raid, Ufo Enemy Unknown, Civilization. Aktualnie zyje pelna piersia i spelnia swoje marzenia jako programista Androida. ",
+    "bio": "Urodzony w Warszawie i zamieszkaly na Mokotowie przez wiekszosc swojego zycia. Od malego zainteresowany komputerami, glownie grami - River Raid, Ufo Enemy Unknown, Civilization. Aktualnie zyje pelna piersia i spelnia swoje marzenia jako programista Androida. ",
+    "tags": [
+      "Android",
+      "RxJava"
+    ],
+    "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/pelotasplus"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/pelotasplus"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "featured": false,
+    "name": "Marcin Suska",
+    "title": "Android developer",
+    "company": "Chimera Prime As",
+    "country": "Warszawa",
+    "photoUrl": "",
+    "shortBio": "Doświadcznenie w firmach oraz startupach zajmujących się bankowością, zakładami sportowymi oraz wykorzystujących technologie typu Backend as Service. Uzależniony od testowania nowych frameworków oraz podejścia reactive. Typ Osoby która najbardziej żałuje że doba ma tylko 24 godzin, prywatnie fan Mozzila fundation oraz otwartych technologi.",
+    "bio": "Doświadcznenie w firmach oraz startupach zajmujących się bankowością, zakładami sportowymi oraz wykorzystujących technologie typu Backend as Service. Uzależniony od testowania nowych frameworków oraz podejścia reactive. Typ Osoby która najbardziej żałuje że doba ma tylko 24 godzin, prywatnie fan Mozzila fundation oraz otwartych technologi.",
+    "tags": [
+      "Android",
+      "RxJava"
+    ],
+    "badges": [
+    ],
+    "socials": [
+    ]
+  },
+  "5": {
+    "id": 5,
+    "featured": false,
+    "name": "Mateusz Jagiełło",
+    "title": "PR Manager",
+    "company": "SoftwarePlant",
+    "country": "Warszawa",
+    "photoUrl": "",
+    "shortBio": "PR expert, Growth Hacker and IT journalist from the EMEA region. Wrote for the biggest IT outlets in Poland. Worked for leading PR agencies and established brands such as Intel, ASUS, Huawei, Nikon and Schneider Electric on the Polish market. Born in 1991, Warsaw. Graduated in English Philology, Warsaw University (scholarship at Tartu Ülikool, Estonia). Enthusiast of gadgets, sports and all things military.",
+    "bio": "PR expert, Growth Hacker and IT journalist from the EMEA region. Wrote for the biggest IT outlets in Poland. Worked for leading PR agencies and established brands such as Intel, ASUS, Huawei, Nikon and Schneider Electric on the Polish market. Born in 1991, Warsaw. Graduated in English Philology, Warsaw University (scholarship at Tartu Ülikool, Estonia). Enthusiast of gadgets, sports and all things military.",
+    "tags": [
+      "Startups",
+      "Entrepreneurship"
+    ],
+    "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/matjag"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "featured": false,
+    "name": "Agnieszka Czyżak",
+    "title": "User Interface Designer",
+    "company": "Polidea",
+    "country": "Warszawa",
+    "photoUrl": "",
+    "shortBio": "Ponieważ zawsze zadawała za dużo pytań, postanowiła zająć się projektowaniem interfejsu użytkownika. Teraz, w Polidei zadaje pytania deweloperom, testerom i użytkownikom i wszyscy są z tego powodu zadowoleni.",
+    "bio": "Ponieważ zawsze zadawała za dużo pytań, postanowiła zająć się projektowaniem interfejsu użytkownika. Teraz, w Polidei zadaje pytania deweloperom, testerom i użytkownikom i wszyscy są z tego powodu zadowoleni.",
+    "tags": [
+      "Design"
+    ],
+    "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/agnieszkaczyzak"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/agaczyzak"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "featured": false,
+    "name": "Rafał Tulwin",
+    "title": "Senior Software Engineer",
+    "company": "Polidea",
+    "country": "Warszawa",
+    "photoUrl": "",
+    "shortBio": "Od 4 lat zaangażowany w pracę nad aplikacjami mobilnymi. Aktualnie pracuje jako Senior iOS developer w firmie Polidea. Pasję do programowania łączy ze sportem i poszukiwaniem nowych wyzwań w obu powyższych dziedzinach.",
+    "bio": "Od 4 lat zaangażowany w pracę nad aplikacjami mobilnymi. Aktualnie pracuje jako Senior iOS developer w firmie Polidea. Pasję do programowania łączy ze sportem i poszukiwaniem nowych wyzwań w obu powyższych dziedzinach.",
+    "tags": [
+      "Design"
+    ],
+    "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/rtulwin"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/rtulwin"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "featured": false,
+    "name": "Krzysztof Sowa",
+    "title": "Android Developer",
+    "company": "Concise Software",
+    "country": "Rzeszów",
+    "photoUrl": "",
+    "shortBio": "Android Developer, który od zawsze wiedział, że tworzenie aplikacji mobilnych to jest to, co chce robić w życiu. Ciągle szuka nowych wyzwań i nieoczywistych rozwiązań. Z jego pasji do fotografowania zrodziło się przekonanie, że aplikacja poza niezawodnym działaniem powinna mieć też dobry design. Ostatnie lata poświęcił pracy nad technologią connected cars i właśnie o jej zaletach, praktycznym zastosowaniu i kierunkach rozwoju opowie na konferencji.",
+    "bio": "Android Developer, który od zawsze wiedział, że tworzenie aplikacji mobilnych to jest to, co chce robić w życiu. Ciągle szuka nowych wyzwań i nieoczywistych rozwiązań. Z jego pasji do fotografowania zrodziło się przekonanie, że aplikacja poza niezawodnym działaniem powinna mieć też dobry design. Ostatnie lata poświęcił pracy nad technologią connected cars i właśnie o jej zaletach, praktycznym zastosowaniu i kierunkach rozwoju opowie na konferencji.",
+    "tags": [
+      "Android Auto"
+    ],
+    "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "www.linkedin.com/in/krzysztof-sowa-332a148b"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "featured": false,
+    "name": "Konrad Dzwinel",
+    "title": "Senior Front-End Developer",
+    "company": "Brainly",
+    "country": "Krakow",
+    "photoUrl": "",
+    "shortBio": "Konrad jest front-end developerem w Brainly, ekspertem, w ramach programu Google Developer Experts, od technologi webowych i i kontrybutorem do projektu Chromium. W swojej karierze pracował w różnych startup'ach, agencjach interaktywnych i firmach konsultingowych budując aplikacje hybrydowe, strony internetowe i wewnętrze narzędzia. Po godzinach rozwija rozszerzenia do przeglądarki Chrome, eksperymentuje z nowymi technologiami front-end'owymi, prowadzi warsztaty i prezentacje.",
+    "bio": "Konrad jest front-end developerem w Brainly, ekspertem, w ramach programu Google Developer Experts, od technologi webowych i i kontrybutorem do projektu Chromium. W swojej karierze pracował w różnych startup'ach, agencjach interaktywnych i firmach konsultingowych budując aplikacje hybrydowe, strony internetowe i wewnętrze narzędzia. Po godzinach rozwija rozszerzenia do przeglądarki Chrome, eksperymentuje z nowymi technologiami front-end'owymi, prowadzi warsztaty i prezentacje.",
+    "tags": [
+      "serviceworkers"
+    ],
+    "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "gplus",
+        "name": "Google+",
+        "link": "https://plus.google.com/u/0/+KonradDzwinel"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/kdzwinel"
+      },
+      {
+        "icon": "github",
+        "name": "Github",
+        "link": "https://github.com/kdzwinel"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "featured": false,
+    "name": "Michał Kamiński",
+    "title": "Senior Software Developer",
+    "company": "Oberthur Technologies",
+    "country": "Łódź",
+    "photoUrl": "",
+    "shortBio": "Architekt rozwiązań płatnościowych i integracyjnych w Oberthur Technologies R&D. Entuzjasta Secure Elementów, pracujący na codzień w ich środowisku.",
+    "bio": "Architekt rozwiązań płatnościowych i integracyjnych w Oberthur Technologies R&D. Entuzjasta Secure Elementów, pracujący na codzień w ich środowisku.",
+    "tags": [
+      "Android"
+    ],
+    "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/michał-kamiński-35335446"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "featured": false,
+    "name": "Michał Mela",
+    "title": "Senior Developer",
+    "company": "Oberthur Technologies",
+    "country": "Łódź",
+    "photoUrl": "",
+    "shortBio": "Programistyczny poliglota skupiony głównie na JVM-ie, pasjonat programowania funkcyjnego, RESTafarianin i wielbiciel Czystego Kodu. Napędzany służeniem innym we własnym rozwoju i nauce, krótkimi dedlajnami i trudnymi problemami. Tych ostatnich, szczególnie w zakresie bezpieczeństwa danych i kryptografii, dostarcza mu praca w Oberthur Technologies R&D nad nowymi metodami płatności.",
+    "bio": "Programistyczny poliglota skupiony głównie na JVM-ie, pasjonat programowania funkcyjnego, RESTafarianin i wielbiciel Czystego Kodu. Napędzany służeniem innym we własnym rozwoju i nauce, krótkimi dedlajnami i trudnymi problemami. Tych ostatnich, szczególnie w zakresie bezpieczeństwa danych i kryptografii, dostarcza mu praca w Oberthur Technologies R&D nad nowymi metodami płatności.",
+    "tags": [
+      "Android"
+    ],
+    "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/michalmela "
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "featured": false,
+    "name": "Przemek Jakubczyk",
+    "title": "Lead Android Engineer",
+    "company": "Applause",
+    "country": "Warsaw",
+    "photoUrl": "",
+    "shortBio": "Programista Android z zamiłowania. Aktywny członek warszawskiej grupy androidowej. Uwielbia czytelny, prosty a przede wszystkim przetestowany kod. Autor projektu RoboSpock.",
+    "bio": "Programista Android z zamiłowania. Aktywny członek warszawskiej grupy androidowej. Uwielbia czytelny, prosty a przede wszystkim przetestowany kod. Autor projektu RoboSpock.",
+    "tags": [
+      "Android"
+    ],
+    "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/pjakubczyk"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "featured": false,
+    "name": "Michał Bryś",
+    "title": "Senior Data Scientist",
+    "company": "Mezzobit",
+    "country": "Kraków",
+    "photoUrl": "",
+    "shortBio": "Michal is working in internet industry from 2009. He is expert in web analytics in e-commerce context, especially using Google Analytics & Google Tag Manager. He loves mining big data sets and discover hidden knowledge. He graduated AGH University of Science and Technology and University of Economics in Cracow. Michal is member of Google Developers Group Cracow.",
+    "bio": "Michal is working in internet industry from 2009. He is expert in web analytics in e-commerce context, especially using Google Analytics & Google Tag Manager. He loves mining big data sets and discover hidden knowledge. He graduated AGH University of Science and Technology and University of Economics in Cracow. Michal is member of Google Developers Group Cracow.",
+    "tags": [
+      "Cloud",
+      "AI"
+    ],
+    "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "gplus",
+        "name": "Google+",
+        "link": "https://plus.google.com/+Micha%C5%82Bry%C5%9B"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/MichalBrys"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/michalbrys"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "featured": false,
+    "name": "Andrzej Torski",
+    "title": "Junior Software Engineer",
+    "company": "Intive",
+    "country": "Warszawa",
+    "photoUrl": "",
+    "shortBio": "Za dnia wykuwa kodziwo najwyższej próby w Intive jako junior. Nocami jako full-stack dev w Yawn.wtf ratuje ludzi przed nudą. Ma bzika na punkcie skalowania aplikacji i wydajnych algorytmów.",
+    "bio": "Za dnia wykuwa kodziwo najwyższej próby w Intive jako junior. Nocami jako full-stack dev w Yawn.wtf ratuje ludzi przed nudą. Ma bzika na punkcie skalowania aplikacji i wydajnych algorytmów.",
+    "tags": [
+      "Firebase"
+    ],
+    "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "link": "https://www.facebook.com/ndrwtrsk"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/AndrewTorski"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/ndrwtrsk"
+      }
+    ]
   }
 }
