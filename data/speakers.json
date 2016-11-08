@@ -389,6 +389,130 @@
         "icon": "github",
         "name": "GitHub",
         "link": "https://github.com/ndrwtrsk"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/andrew-torski-0393689a"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "featured": false,
+    "name": "Krzysztof Figaj",
+    "title": "Technical Lead",
+    "company": "Applause",
+    "country": "Warszawa",
+    "photoUrl": "",
+    "shortBio": "Absolwent szkoły Stanisława Staszica w Warszawie oraz Politechniki Warszawskiej wydział WEITI na kierunku Informatyka. Stypendysta programu UE-Canada Student Mobility. Z branżą IT związany od ponad 10 lat. Współpracował m. in. z firmami jako pracownik lub klient - Emersson, IBM Polska / US / Canada, Sbierbank, Google, Ebay, Nielsen, AAA, Tmobile, BMW.https://pl.linkedin.com/in/kfigaj. Zwycięzca pierwszego Hackwaw2012.Na ostatnim hackatonie w stworzyłem ze znajomymi SDK do monitorowania aplikacji Unity, dedykowanych pod VR. Użytkownik ma możliwość interakcji z VR poprzez komendy głosowe wydawane przez Amazon Alexa. Demo https://www.youtube.com/watch?v=PDVMHO-Vpz4&feature=youtu.be",
+    "bio": "Absolwent szkoły Stanisława Staszica w Warszawie oraz Politechniki Warszawskiej wydział WEITI na kierunku Informatyka. Stypendysta programu UE-Canada Student Mobility. Z branżą IT związany od ponad 10 lat. Współpracował m. in. z firmami jako pracownik lub klient - Emersson, IBM Polska / US / Canada, Sbierbank, Google, Ebay, Nielsen, AAA, Tmobile, BMW.https://pl.linkedin.com/in/kfigaj. Zwycięzca pierwszego Hackwaw2012.Na ostatnim hackatonie w stworzyłem ze znajomymi SDK do monitorowania aplikacji Unity, dedykowanych pod VR. Użytkownik ma możliwość interakcji z VR poprzez komendy głosowe wydawane przez Amazon Alexa. Demo https://www.youtube.com/watch?v=PDVMHO-Vpz4&feature=youtu.be",
+    "tags": [
+      "vr"
+    ],
+    "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "link": "https://www.facebook.com/vrlabspectrum/"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/kfigaj"
+      }
+    ]
+  },
+  "16": {
+    "id": 16,
+    "featured": false,
+    "name": "Filip Miłoszewski",
+    "title": "",
+    "company": "",
+    "country": "",
+    "photoUrl": "",
+    "shortBio": "",
+    "bio": "",
+    "tags": [
+      "General"
+    ]
+  },
+  "17": {
+    "id": 17,
+    "featured": false,
+    "name": "Sophia Huts",
+    "title": "GDG Lviv Manager",
+    "company": "GDG Lviv",
+    "country": "",
+    "photoUrl": "",
+    "shortBio": "Sofia is a manager of GDG Lviv and has been working as Full-stack .Net developer during last 2 years.",
+    "bio": "Sofia is a manager of GDG Lviv (http://lviv.gdg.org.ua/) and also leads local WTM (Women Techmakers https://www.womentechmakers.com/) community in Lviv. Additionally, one of organisers of GDG DevFest Ukraine (https://devfest.gdg.org.ua/). Despite that fact that Sofia has been working as Full-stack .Net developer during last 2 years, she is really passionate about front-end stuff, especially everything related to Progressive Web Apps and developing fancy web application using Polymer. ",
+    "tags": [
+      "Polymer",
+      "Firebase"
+    ],
+    "socials": [
+      {
+        "icon": "gplus",
+        "name": "Google+",
+        "link": "https://plus.google.com/+SofiaHuts"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/sofiya-huts-4b314a9a,"
+      },
+      {
+        "icon": "github",
+        "name": "Github",
+        "link": "https://github.com/sophieH29"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "link": "https://www.facebook.com/sophie.huts.7,"
+      }
+    ]
+  },
+  "18": {
+    "id": 18,
+    "featured": false,
+    "name": "Jakub Kołakowski",
+    "title": "Technical Director",
+    "company": "albo/albo",
+    "country": "Warszawa",
+    "photoUrl": "",
+    "shortBio": "",
+    "bio": "",
+    "tags": [
+      "Community"
+    ]
+  },
+  "19": {
+    "id": 19,
+    "featured": false,
+    "name": "  Maciej Jabłoński",
+    "title": "Senior Integrator",
+    "company": "Oberthur Technologies",
+    "country": "Warszawa",
+    "photoUrl": "",
+    "shortBio": "Software engineering has lot of flavors - development, infrastructure, release management, testing, automation, you name them. Maciej tasted them all on many occasions. He cannot tell if he's dev, admin or QA. He just does his job.",
+    "bio": "Software engineering has lot of flavors - development, infrastructure, release management, testing, automation, you name them. Maciej tasted them all on many occasions. He cannot tell if he's dev, admin or QA. He just does his job.",
+    "tags": [
+      "devops"
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/jablonskimaciej"
+      },
+      {
+        "icon": "github",
+        "name": "Github",
+        "link": "https://github.com/j4b0l"
       }
     ]
   }

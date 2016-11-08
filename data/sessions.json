@@ -1,3 +1,419 @@
 {
+  "141": {
+    "id": 141,
+    "title": "Obiad",
+    "description": ""
+  },
+  "140": {
+    "id": 140,
+    "title": "TBD",
+    "description": "TBD"
+  },
+  "139": {
+    "id": 139,
+    "title": "Keynote",
+    "description": ""
+  },
+  "138": {
+    "id": 138,
+    "title": "Zamknięcie konferencji",
+    "description": "",
+    "image": "/images/backgrounds/closing.jpg"
+  },
+  "137": {
+    "id": 137,
+    "title": "Afterparty i Networking",
+    "description": "Afterparty to świetny czas by się bawić i spotkać nowych ludzi.",
+    "image": "/images/backgrounds/party.jpg"
+  },
+  "136": {
+    "id": 136,
+    "title": "Otwarcie GDG DevFest Poland 2016",
+    "description": "Oficjanlny start imprezy! Przywitanie przez organizatorów i sponsorów.",
+    "image": "/images/backgrounds/opening.jpg"
+  },
+  "132": {
+    "id": 132,
+    "title": "Rejestracja",
+    "description": "",
+    "image": "/images/backgrounds/registration.jpg"
+  },
+  "101": {
+    "id": 101,
+    "title": "Wojtek Kaliciński - Android Tool Time: Holiday Special",
+    "description": "Garść nowości na styku Android Studio, Androida i Play Store, m.in.: o zmianach w Android Gradle plugin, które wpłyną na szybkość instalacji twojego APK, o tym jak Play Store uprawia czarną magię, by dostarczyć najmniejszy update na urządzenia, a w bonusie krótkie opowiadanie o optymalizacji aplikacji Santa Tracker. Plus 10 nowości, o których nie wiedzieliście (albo wiedzieliście - jestem programistą, a nie jasnowidzem).",
+    "speakers": [
+      1
+    ],
+    "tags": [
+      "android"
+    ]
+  },
+  "102": {
+    "id": 102,
+    "title": "Nie chce mi się dla Ciebie projektować!",
+    "description": "Patrząc z perspektywy projektanta i programisty opowiemy o tym jak pracowaliśmy nad dostępnością naszej aplikacji dla wszystkich. Przedstawimy proces wdrażania rozwiązań dotyczących Accessibility w projekcie Shuttle. Opiszemy problemy i wyzwania jakie napotkaliśmy, starając się jednocześnie zwrócić uwagę na to, że trzeba zadbać o pozytywne doświadczenie każdego użytkownika.",
+    "speakers": [
+      6,
+      7
+    ],
+    "tags": [
+      "Design"
+    ]
+  },
+  "103": {
+    "id": 103,
+    "title": "Cloud Machine Learning",
+    "description": "Build smart applications using Cloud Vision, Cloud Speech, Natural Language API and TensorFlow.",
+    "speakers": [
+      13
+    ],
+    "language": "Angielski/English",
+    "tags": [
+      "Cloud"
+    ]
+  },
+  "104": {
+    "id": 104,
+    "title": "Web components @ scale",
+    "description": "Duże aplikacje pochłaniają mnóstwo czasu na to, aby je oprogramować i przygotować do środowiska produkcyjnego. Po jakimś czasie zmienia się technologia, powstają nowe frameworki, zmieniają się wymagania aplikacji i wtedy powrót do fazy programowania może być bardzo bolesne. W tej sesji poruszę temat standardów platformy web i jak je wykorzystać na korzyść pisania skalowalnej aplikacji oraz jak web komponenty pozwalają uwolnić od bardzo kosztownych zmian. Skupię się na frameworku Polymer (2.0) oraz na tym jak przejść z programowania na frameworku do programowania na platformie.",
+    "speakers": [
+      2
+    ],
+    "tags": [
+      "Polymer"
+    ]
+  },
+  "105": {
+    "id": 105,
+    "title": "Dobre wzorce projektowania UI dla VR",
+    "description": "Patrząc z perspektywy projektanta i programisty opowiemy o tym jak pracowaliśmy nad dostępnością naszej aplikacji dla wszystkich. Przedstawimy proces wdrażania rozwiązań dotyczących Accessibility w projekcie Shuttle. Opiszemy problemy i wyzwania jakie napotkaliśmy, starając się jednocześnie zwrócić uwagę na to, że trzeba zadbać o pozytywne doświadczenie każdego użytkownika.",
+    "speakers": [
+      15
+    ],
+    "tags": [
+      "VR"
+    ]
+  },
+  "106": {
+    "id": 106,
+    "title": "Nowoczesne IT w Twojej organizacji - czy DevOps i chmura sprawią, że będziesz spać spokojniej?",
+    "description": "Build smart applications using Cloud Vision, Cloud Speech, Natural Language API and TensorFlow.",
+    "speakers": [
+    ],
+    "tags": [
+      "Cloud"
+    ]
+  },
+  "107": {
+    "id": 107,
+    "title": "Rx Java 2",
+    "description": "RxJava 2 introduces new API and few important changes making it even more funnier to use than version 1. In my presentation I'll go through the new features and APIs, compare them to the original ones and explain what's the difference.",
+    "speakers": [
+      3
+    ],
+    "tags": [
+      "rxjava"
+    ]
+  },
+  "108": {
+    "id": 108,
+    "title": "Dobre wzorce projektowania UI dla VR",
+    "description": "Patrząc z perspektywy projektanta i programisty opowiemy o tym jak pracowaliśmy nad dostępnością naszej aplikacji dla wszystkich. Przedstawimy proces wdrażania rozwiązań dotyczących Accessibility w projekcie Shuttle. Opiszemy problemy i wyzwania jakie napotkaliśmy, starając się jednocześnie zwrócić uwagę na to, że trzeba zadbać o pozytywne doświadczenie każdego użytkownika.",
+    "speakers": [
+      15
+    ],
+    "tags": [
+      "VR"
+    ]
+  },
+  "109": {
+    "id": 109,
+    "title": "Interfejsy głosowe w appkach - dlaczego warto, dlaczego teraz?",
+    "description": "",
+    "speakers": [
+      16
+    ],
+    "tags": [
+      "general"
+    ]
+  },
+  "110": {
+    "id": 110,
+    "title": "Wanna more fire? - Let's try polymerfire!",
+    "description": "Have you ever tried to build Web application using Polymer with Firebase integration, additionally adhere to PWA's canons? I have, and know how many surprises can be found during developmet :). Polymerfire is a great Polymer Web Component Firebase and looks very easy to play with. During my talk I want to dive into tips & tricks on how you can integrate your web app on Polymer with Firebase + how to add offline support (since Firebase uses web sockets for data transferring, service worker will not help in that case).  ",
+    "speakers": [
+      17
+    ],
+    "language": "English",
+    "tags": [
+      "Firebase",
+      "Polymer"
+    ]
+  },
+  "111": {
+    "id": 111,
+    "title": "Rx Java - Grzechy główne programistów oraz praktyczne zastosowania",
+    "description": "Czego powinniśmy unikać pisząc kod w Rx oraz praktyczne zastosowania reaktywnego kodu w androidzie",
+    "speakers": [
+      4
+    ],
+    "tags": [
+      "rxjava"
+    ]
+  },
+  "112": {
+    "id": 112,
+    "title": "TBD",
+    "description": "TBD",
+    "speakers": [
+    ],
+    "tags": [
+      "general"
+    ]
+  },
+  "113": {
+    "id": 113,
+    "title": "TBD",
+    "description": "TBD",
+    "speakers": [
+    ],
+    "tags": [
+      "general"
+    ]
+  },
+  "114": {
+    "id": 114,
+    "title": "Design Sprint as a general Problem Solver",
+    "description": "",
+    "speakers": [
+      18
+    ],
+    "tags": [
+      "Community"
+    ]
+  },
+  "115": {
+    "id": 115,
+    "title": "TBD",
+    "description": "TBD",
+    "speakers": [
+    ],
+    "tags": [
+      "general"
+    ]
+  },
+  "116": {
+    "id": 116,
+    "title": "TBD",
+    "description": "TBD",
+    "speakers": [
+    ],
+    "tags": [
+      "general"
+    ]
+  },
+  "117": {
+    "id": 117,
+    "title": "TBD",
+    "description": "TBD",
+    "speakers": [
+    ],
+    "tags": [
+      "general"
+    ]
+  },
+  "118": {
+    "id": 118,
+    "title": "(Prawdziwe) Bezpieczeństwo danych na Androidzie",
+    "description": "Czy zastanawiałeś się, jak długo wrażliwe dane użytkowników Twojej aplikacji pozostaną bezpieczne w obliczu takich zagrożeń jak: – kradzież urządzenia, – rootowanie telefonu, – podsłuchiwanie komunikacji, – zrzut pamięci aplikacji Opowiemy Ci o praktycznych problemach, z którymi mierzymy się na co dzień, zapewniając najwyższy poziom zabezpieczeń w płatnościach mobilnych oraz uchylimy rąbka tajemnicy o najnowszych rozwiązaniach w tym zakresie. Na prezentacji zapoznasz się z aspektami bezpieczeństwa danych w urządzeniach z Androidem od trzech stron:1. kryptografii – o czym należy pamiętać2. bezpieczeństwa transportu – gdzie czai się niebezpieczeństwo3. bezpieczeństwa przechowywania – różne podejścia oraz ich wady i zalety",
+    "speakers": [
+      10,
+      11
+    ],
+    "tags": [
+      "android"
+    ]
+  },
+  "119": {
+    "id": 119,
+    "title": "TBD",
+    "description": "TBD",
+    "speakers": [
+    ],
+    "tags": [
+      "general"
+    ]
+  },
+  "120": {
+    "id": 120,
+    "title": "Jak przeskalować startup w rok",
+    "description": "Oczywiście z wykorzystaniem narzędzi Google (powodzenia bez Analytics). Mam duże doświadczenie w marketingu wszelkiej maści, od dużych agencji i lipnych KPI po właśnie startupy i mogę podpowiedzieć developerom, co i jak faktycznie warto robić.",
+    "speakers": [
+      5
+    ],
+    "tags": [
+      "entrepreneurship"
+    ]
+  },
+  "121": {
+    "id": 121,
+    "title": "Android Auto",
+    "description": "Podczas prezentacji opowiem o kierunkach rozwoju technologii Connected Cars oraz przedstawię najpopularniejsze technologie. Szczególnie skupimy się na rozwiązaniu Android Auto. Zapoznamy się z zasadami projektowania aplikacji mobilnych dostępnych w samochodach, porozmawiamy o bezpieczeństwem kierowców oraz pokażę jak zintegrować naszą aplikację z Android Auto.",
+    "speakers": [
+      8
+    ],
+    "tags": [
+      "androidauto",
+      "android"
+    ]
+  },
+  "122": {
+    "id": 122,
+    "title": "TBD",
+    "description": "TBD",
+    "speakers": [
+    ],
+    "tags": [
+      "general"
+    ]
+  },
+  "123": {
+    "id": 123,
+    "title": "TBD",
+    "description": "TBD",
+    "speakers": [
 
+    ],
+    "tags": [
+      "general"
+    ]
+  },
+  "124": {
+    "id": 124,
+    "title": "TBD",
+    "description": "TBD",
+    "speakers": [
+
+    ],
+    "tags": [
+      "general"
+    ]
+  },
+  "125": {
+    "id": 125,
+    "title": "TBD",
+    "description": "TBD",
+    "speakers": [
+    ],
+    "tags": [
+      "general"
+    ]
+  },
+  "126": {
+    "id": 126,
+    "title": "Optymalizacja wyszukiwań geo-danych w Firebase",
+    "description": "",
+    "speakers": [
+      14
+    ],
+    "tags": [
+      "firebase"
+    ]
+  },
+  "127": {
+    "id": 127,
+    "title": "~Dependency~ Library injection. How to extend any app without single line of code",
+    "description": "It's not about dagger. It's about putting your source code to an Android binary. Yes the compiled dex code! During the presentation I will show in steps how to inject aar to apk without having original source code nor resources.",
+    "speakers": [
+      12
+    ],
+    "tags": [
+      "android"
+    ]
+  },
+  "128": {
+    "id": 128,
+    "title": "TBD",
+    "description": "TBD",
+    "speakers": [
+
+    ],
+    "tags": [
+      "general"
+    ]
+  },
+  "129": {
+    "id": 129,
+    "title": "TBD",
+    "description": "TBD",
+    "speakers": [
+    ],
+    "tags": [
+      "general"
+    ]
+  },
+  "130": {
+    "id": 130,
+    "title": "~Dependency~ Library injection. How to extend any app without single line of code",
+    "description": "It's not about dagger. It's about putting your source code to an Android binary. Yes the compiled dex code! During the presentation I will show in steps how to inject aar to apk without having original source code nor resources.",
+    "speakers": [
+      12
+    ],
+    "tags": [
+      "android"
+    ]
+  },
+  "131": {
+    "id": 131,
+    "title": "TBD",
+    "description": "TBD",
+    "speakers": [
+
+    ],
+    "tags": [
+      "general"
+    ]
+  },
+  "1321": {
+    "id": 1321,
+    "title": "TBD",
+    "description": "TBD",
+    "speakers": [
+    ],
+    "tags": [
+      "general"
+    ]
+  },
+  "1322": {
+    "id": 1322,
+    "title": "\"... as a Code\" - facts and myths",
+    "description": "Recently software development and deployment goes toward \"Everything as a Code\" and continuous integration/delivery. Number of presentations show idealistic model of such process and methodology. Let's compare it to reality.",
+    "speakers": [
+      19
+    ],
+    "tags": [
+      "devops"
+    ]
+  },
+  "1323": {
+    "id": 1323,
+    "title": "TBD",
+    "description": "TBD",
+    "speakers": [
+    ],
+    "tags": [
+      "general"
+    ]
+  },
+  "1324": {
+    "id": 1324,
+    "title": "TBD",
+    "description": "TBD",
+    "speakers": [
+    ],
+    "tags": [
+      "general"
+    ]
+  }
 }
