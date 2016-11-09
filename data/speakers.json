@@ -515,5 +515,77 @@
         "link": "https://github.com/j4b0l"
       }
     ]
+  },
+  "20":{
+    "id": 20,
+    "featured": false,
+    "name": "Radek Piekarz",
+    "title": "Head of Mobile Development",
+    "company": "Tango Digital Agency",
+    "country": "Kraków",
+    "photoUrl": "",
+    "shortBio": "",
+    "bio": "",
+    "tags": [
+      "android"
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/radekpiekarz"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/radzio"
+      }
+    ]
+  },
+  "21":{
+    "id": 21,
+    "featured": false,
+    "name": "Konrad Krakowiak",
+    "title": "",
+    "company": "",
+    "country": "",
+    "photoUrl": "",
+    "shortBio": "",
+    "bio": "",
+    "tags": [
+      "android"
+    ],
+    "socials": [
+    ]
+  },
+  "22": {
+    "id": 22,
+    "featured": false,
+    "name": "Michał Tajchert",
+    "title": "CEO",
+    "company": "Yawn",
+    "country": "Warszawa",
+    "photoUrl": "",
+    "shortBio": "",
+    "bio": "",
+    "tags": [
+      "entrepreneurship"
+    ],
+    "socials":[]
+  },
+  "23": {
+    "id": 23,
+    "featured": false,
+    "name": "Tomasz Florczak",
+    "title": "",
+    "company": "",
+    "country": "",
+    "photoUrl": "",
+    "shortBio": "",
+    "bio": "",
+    "tags": [
+      "entrepreneurship"
+    ],
+    "socials":[]
   }
 }

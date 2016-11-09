@@ -2,6 +2,7 @@
   "141": {
     "id": 141,
     "title": "Obiad",
+    "image": "/images/backgrounds/spaghetti-1584087_640.jpg",
     "description": ""
   },
   "140": {
@@ -81,7 +82,7 @@
       2
     ],
     "tags": [
-      "Polymer"
+      "polymer"
     ]
   },
   "105": {
@@ -124,7 +125,7 @@
       15
     ],
     "tags": [
-      "VR"
+      "vr"
     ]
   },
   "109": {
@@ -147,8 +148,8 @@
     ],
     "language": "English",
     "tags": [
-      "Firebase",
-      "Polymer"
+      "firebase",
+      "polymer"
     ]
   },
   "111": {
@@ -190,7 +191,7 @@
       18
     ],
     "tags": [
-      "Community"
+      "community"
     ]
   },
   "115": {
@@ -313,7 +314,7 @@
   "126": {
     "id": 126,
     "title": "Optymalizacja wyszukiwań geo-danych w Firebase",
-    "description": "",
+    "description": "TBA",
     "speakers": [
       14
     ],
@@ -414,6 +415,61 @@
     ],
     "tags": [
       "general"
+    ]
+  },
+  "1325": {
+    "id": 1325,
+    "title": "Going offline with Service Worker",
+    "description": "Last year brought a lot of new capabilities to browsers, fundamentally changing the way we will build web apps in the near future. Offline support is definitely one of the most exciting additions. In this talk, we will dive deep into Service Worker and see how we can use it in our apps.",
+    "speakers": [
+      9
+    ],
+    "tags": [
+      "serviceworkers"
+    ]
+  },
+  "1400":{
+    "id": 1400,
+    "title": "Twój nowy najlepszy przyjaciej - Annotation Processing",
+    "description": "Annotation Processing jest funkcjonalnością kompilatora Javy, która umożliwia automatyczne generowanie kodu na podstawie adnotacji, dzięki czemu można ograniczyć ilość boilerplate'u w projekcie. Prezentacja będzie koncentrować się na tym jak zacząć pisać własne annotation proccesory oraz jak bardzo pozwalają zaoszczędzić czas. Nie zabraknie przykładów z projektów aplikacji na system Android, w których używamy annotation processorów w połączeniu z Daggerem 2 oraz wzorcami MVP i MVVM.",
+    "speakers": [
+      20
+    ],
+    "tags": [
+      "android"
+    ]
+  },
+  "1401": {
+    "id": 1401,
+    "title": "Kotlin dla programisty Android",
+    "description": "Kotlin jest nową alternatywą wśród języków wykorzystywanych na platformie Android, który dotychczas zdobył największe zainteresowanie (obok języka JAVA). Prezentacja pokazuje  jak w łatwy i bezbolesny sposób przejść z programowania w języku Java na programowanie w języku Kotlin. Opisuje dobre praktyki jakie należy stosować w języku Kotlin oraz odkrywa zalety tego języka. ",
+    "speakers": [
+      21
+    ],
+    "tags": [
+      "android"
+    ]
+  },
+  "1402": {
+    "id": 1402,
+    "title": "10 porad dla startupów mobilnych - wersja 2016",
+    "description": "TBA",
+    "speakers": [
+      22
+    ],
+    "tags": [
+      "entrepreneurship"
+    ]
+  },
+  "1403": {
+    "id": 1403,
+    "title": "Let's make developers stand out!",
+    "description": "I believe that software engineers are people who decide how the world of tomorrow will look like. Basically we believe that they are super rock stars! During the speech I'd like to talk about hackathons and how we help all makers to stand out with ChallengeRocket.com .<br>I'd also like to shortly present backstory of our organization, tell some of my experience from various hackathons and discuss why it's great a thing for brands to build developer ecosystem around their organizations.",
+    "speakers": [
+      23
+    ],
+    "tags": [
+      "entrepreneurship"
     ]
   }
 }
