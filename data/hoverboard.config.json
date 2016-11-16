@@ -1,59 +1,60 @@
 {
+  "firebase": {
+    "name": "hoverboard-master",
+    "domain": "hoverboard-master.firebaseapp.com",
+    "database": "https://hoverboard-master.firebaseio.com",
+    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "userSessionsPath": "/userSessions"
+  },
   "pages": {
     "home": {
       "headerSettings": {
         "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/zwierzaczki4.jpg",
+        "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Poland 2016",
-          "youtubeId": "YOUTUBEID",
-          "text": "Zobacz jak to wyglądało w 2015!"
+          "title": "GDG DevFest Ukraine 2016",
+          "youtubeId": "TdpbgRgz6eE",
+          "text": "See how it was in 2016"
         },
         "hideLogo": true,
-        "minHeight": "360px",
-        "mainContentTopPadding": "850px"
+        "minHeight": "360px"
       }
     },
     "blog": {
       "headerSettings": {
         "backgroundColor": "#03a9f4",
         "fontColor": "#fff",
-        "tabBarColor": "#fff",
-        "mainContentTopPadding": "424px"
+        "tabBarColor": "#fff"
       }
     },
     "speakers": {
       "headerSettings": {
         "backgroundColor": "#3f51b5",
         "fontColor": "#fff",
-        "tabBarColor": "#fff",
-        "mainContentTopPadding": "424px"
+        "tabBarColor": "#fff"
       }
     },
     "schedule": {
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
-        "tabBarColor": "#fff",
-        "mainContentTopPadding": "424px"
+        "tabBarColor": "#fff"
       }
     },
     "team": {
       "headerSettings": {
         "backgroundColor": "#009688",
         "fontColor": "#fff",
-        "tabBarColor": "#fff",
-        "mainContentTopPadding": "424px"
+        "tabBarColor": "#fff"
       }
     },
     "cod": {
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
-        "tabBarColor": "#fff",
-        "mainContentTopPadding": "424px"
+        "tabBarColor": "#fff"
       }
     }
   },
@@ -67,30 +68,33 @@
       "permalink": "/blog/"
     },
     {
-      "route": "speakers",
-      "permalink": "/speakers"
+      "route": "schedule",
+      "permalink": "/schedule/"
     },
     {
-      "route": "schedule",
-      "permalink": "/schedule"
+      "route": "speakers",
+      "permalink": "/speakers/"
     },
     {
       "route": "team",
       "permalink": "/team/"
     }
   ],
-  "url": "https://df16pl.firebaseapp.com/",
+  "url": "https://hoverboard.firebaseapp.com/",
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
   "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "c4p": "https://docs.google.com/forms/d/e/1FAIpQLSfEGOW-ozP2xebZIYLOZ1vanPwalJLMGpx4YJgAuqs2-BvxGw/viewform",
   "disqusShortName": "hoverboard-gdg-x",
   "languages": [
     {
-      "name": "Polski",
-      "key": "pl"
+      "name": "English",
+      "key": "en"
+    },
+    {
+      "name": "Українська",
+      "key": "uk"
     }
   ],
   "footerBlocks": [
@@ -102,8 +106,42 @@
           "url": "/team/"
         },
         {
+          "text": "cod",
+          "url": "/cod/"
+        },
+        {
           "text": "google-developers",
           "url": "https://developers.google.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-13",
+          "url": "http://gdg-devfest-ua.appspot.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-14",
+          "url": "http://devfest.gdg.org.ua/2014/",
+          "newTab": true
+        },
+        {
+          "text": "df-15",
+          "url": "http://devfest.gdg.org.ua/2015/",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "title": "for-partners",
+      "links": [
+        {
+          "text": "partnership-proposition",
+          "url": "http://bit.ly/df16-sponsor",
+          "newTab": true
+        },
+        {
+          "text": "media-kit",
+          "url": "http://bit.ly/df16-media",
           "newTab": true
         }
       ]
@@ -112,21 +150,38 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@gdgpoland.org",
-        "url": "mailto:devfest@gdgpoland.org"
+        "text": "devfest@google.com",
+        "url": "mailto:devfest@google.com"
       }
     ]
   },
   "tickets": {
-    "url": "https://devfestpl2016.eventbrite.com/",
+    "url": "http://2event.com/events/630032",
     "elements": [
       {
+        "name": "student-ticket",
+        "price": 500,
+        "currency": "₴",
+        "starts": "student-ticket-starts",
+        "ends": "student-ticket-ends",
+        "info": "student-ticket-info",
+        "soldOut": false
+      },
+      {
         "name": "early-ticket",
-        "price": 50,
-        "currency": " zł",
+        "price": 750,
+        "currency": "₴",
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
+        "soldOut": true
+      },
+      {
+        "name": "lazy-ticket",
+        "price": 1000,
+        "currency": "₴",
+        "starts": "lazy-ticket-starts",
+        "ends": "lazy-ticket-ends",
         "soldOut": false
       }
     ]
@@ -135,11 +190,15 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 500,
+      "counter": 600,
       "caption": "attendees"
     },
     {
-      "counter": 40,
+      "counter": 2,
+      "caption": "days"
+    },
+    {
+      "counter": 30,
       "caption": "sessions"
     },
     {
@@ -147,22 +206,27 @@
       "caption": "tracks"
     }
   ],
-  "hashtag": "df16pl",
+  "hashtag": "dfua",
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGPoland",
-      "url": "https://twitter.com/devfestpl"
+      "nickname": "GDGLviv",
+      "url": "https://twitter.com/gdglviv"
     },
     {
       "name": "gplus",
       "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/105194415052752125887"
+      "url": "https://plus.google.com/102444623953913144164"
     },
     {
       "name": "facebook",
-      "nickname": "GDG.Poland",
-      "url": "https://www.facebook.com/GDG.Poland/"
+      "nickname": "GDGLviv",
+      "url": "https://www.facebook.com/GDGLviv"
+    },
+    {
+      "name": "linkedin",
+      "nickname": "google-developers-group-lviv",
+      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
     }
   ],
   "tweetsSource": "/data/tweets.json",
@@ -180,18 +244,18 @@
     "apiKey": "",
     "link": "https://www.facebook.com/expopivdennij",
     "pointer": {
-      "latitude": 52.2516482,
-      "longitude": 21.0334453,
-      "zoom": 16
+      "latitude": 49.809841,
+      "longitude": 23.972805,
+      "zoom": 15
     },
     "mapCenter": {
-      "latitude": 52.2516482,
-      "longitude": 21.037
+      "latitude": 49.809841,
+      "longitude": 23.982805
     },
     "images": [
-      "/images/backgrounds/kino-praha-1.jpg",
-      "/images/backgrounds/kino-praha-2.jpg",
-      "/images/backgrounds/kino-praha-3.jpg"
+      "/images/backgrounds/location_1.jpg",
+      "/images/backgrounds/location_2.jpg",
+      "/images/backgrounds/location_3.jpg"
     ]
   },
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
